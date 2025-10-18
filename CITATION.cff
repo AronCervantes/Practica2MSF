@@ -13,7 +13,7 @@ authors:
 repository-code: 'https://github.com/AronCervantes/Practica2MSF'
 keywords:
   - Circuito RLC
-  - Controlador I
+  - Controlador PI
   - Sistema cardiovascular
   - Modelo matemático
   - Simulaciones numéricas
